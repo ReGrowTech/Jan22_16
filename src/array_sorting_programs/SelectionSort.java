@@ -1,11 +1,9 @@
 // Selection Sort of Array of length 10
 package array_sorting_programs;
-import java.util.Scanner;
 public class SelectionSort
 {
 	public static void main(String[] args)
 	{
-		Scanner sc=new Scanner(System.in);
 		int arr[]= {6,8,2,7,3,9,10,4,1,5};//array length : 10
 		System.out.print("Unsorted Array : ");
 		for(int a :arr)
@@ -21,7 +19,6 @@ public class SelectionSort
 				}
 		for(int a :arr)
 			System.out.print(a+" ");
-		sc.close();
 	}
 
 }
