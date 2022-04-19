@@ -1,58 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-16">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="D:/LocalReprository/Jan22_16/SeleniumJar_lib/animal-sniffer-annotations-1.14.jar"/>
-	<classpathentry kind="lib" path="D:/LocalReprository/Jan22_16/SeleniumJar_lib/byte-buddy-1.8.15.jar"/>
-	<classpathentry kind="lib" path="D:/LocalReprository/Jan22_16/SeleniumJar_lib/checker-compat-qual-2.0.0.jar"/>
-	<classpathentry kind="lib" path="D:/LocalReprository/Jan22_16/SeleniumJar_lib/commons-codec-1.10.jar"/>
-	<classpathentry kind="lib" path="D:/LocalReprository/Jan22_16/SeleniumJar_lib/commons-exec-1.3.jar"/>
-	<classpathentry kind="lib" path="D:/LocalReprository/Jan22_16/SeleniumJar_lib/commons-logging-1.2.jar"/>
-	<classpathentry kind="lib" path="D:/LocalReprository/Jan22_16/SeleniumJar_lib/error_prone_annotations-2.1.3.jar"/>
-	<classpathentry kind="lib" path="D:/LocalReprository/Jan22_16/SeleniumJar_lib/guava-25.0-jre.jar"/>
-	<classpathentry kind="lib" path="D:/LocalReprository/Jan22_16/SeleniumJar_lib/httpclient-4.5.5.jar"/>
-	<classpathentry kind="lib" path="D:/LocalReprository/Jan22_16/SeleniumJar_lib/httpcore-4.4.9.jar"/>
-	<classpathentry kind="lib" path="D:/LocalReprository/Jan22_16/SeleniumJar_lib/j2objc-annotations-1.1.jar"/>
-	<classpathentry kind="lib" path="D:/LocalReprository/Jan22_16/SeleniumJar_lib/jsr305-1.3.9.jar"/>
-	<classpathentry kind="lib" path="D:/LocalReprository/Jan22_16/SeleniumJar_lib/okhttp-3.10.0.jar"/>
-	<classpathentry kind="lib" path="D:/LocalReprository/Jan22_16/SeleniumJar_lib/okio-1.14.1.jar"/>
-	<classpathentry kind="lib" path="D:/LocalReprository/Jan22_16/SeleniumJar_lib/selenium-api-3.14.0.jar"/>
-	<classpathentry kind="lib" path="D:/LocalReprository/Jan22_16/SeleniumJar_lib/selenium-chrome-driver-3.14.0.jar"/>
-	<classpathentry kind="lib" path="D:/LocalReprository/Jan22_16/SeleniumJar_lib/selenium-edge-driver-3.14.0.jar"/>
-	<classpathentry kind="lib" path="D:/LocalReprository/Jan22_16/SeleniumJar_lib/selenium-firefox-driver-3.14.0.jar"/>
-	<classpathentry kind="lib" path="D:/LocalReprository/Jan22_16/SeleniumJar_lib/selenium-ie-driver-3.14.0.jar"/>
-	<classpathentry kind="lib" path="D:/LocalReprository/Jan22_16/SeleniumJar_lib/selenium-java-3.14.0.jar"/>
-	<classpathentry kind="lib" path="D:/LocalReprository/Jan22_16/SeleniumJar_lib/selenium-opera-driver-3.14.0.jar"/>
-	<classpathentry kind="lib" path="D:/LocalReprository/Jan22_16/SeleniumJar_lib/selenium-remote-driver-3.14.0.jar"/>
-	<classpathentry kind="lib" path="D:/LocalReprository/Jan22_16/SeleniumJar_lib/selenium-safari-driver-3.14.0.jar"/>
-	<classpathentry kind="lib" path="D:/LocalReprository/Jan22_16/SeleniumJar_lib/selenium-support-3.14.0.jar"/>
-	<classpathentry kind="lib" path="D:/localRepository/Jan22_16/SeleniumJar_lib/animal-sniffer-annotations-1.14.jar"/>
-	<classpathentry kind="lib" path="D:/localRepository/Jan22_16/SeleniumJar_lib/byte-buddy-1.8.15.jar"/>
-	<classpathentry kind="lib" path="D:/localRepository/Jan22_16/SeleniumJar_lib/checker-compat-qual-2.0.0.jar"/>
-	<classpathentry kind="lib" path="D:/localRepository/Jan22_16/SeleniumJar_lib/commons-codec-1.10.jar"/>
-	<classpathentry kind="lib" path="D:/localRepository/Jan22_16/SeleniumJar_lib/commons-exec-1.3.jar"/>
-	<classpathentry kind="lib" path="D:/localRepository/Jan22_16/SeleniumJar_lib/commons-logging-1.2.jar"/>
-	<classpathentry kind="lib" path="D:/localRepository/Jan22_16/SeleniumJar_lib/error_prone_annotations-2.1.3.jar"/>
-	<classpathentry kind="lib" path="D:/localRepository/Jan22_16/SeleniumJar_lib/guava-25.0-jre.jar"/>
-	<classpathentry kind="lib" path="D:/localRepository/Jan22_16/SeleniumJar_lib/httpclient-4.5.5.jar"/>
-	<classpathentry kind="lib" path="D:/localRepository/Jan22_16/SeleniumJar_lib/httpcore-4.4.9.jar"/>
-	<classpathentry kind="lib" path="D:/localRepository/Jan22_16/SeleniumJar_lib/j2objc-annotations-1.1.jar"/>
-	<classpathentry kind="lib" path="D:/localRepository/Jan22_16/SeleniumJar_lib/jsr305-1.3.9.jar"/>
-	<classpathentry kind="lib" path="D:/localRepository/Jan22_16/SeleniumJar_lib/okhttp-3.10.0.jar"/>
-	<classpathentry kind="lib" path="D:/localRepository/Jan22_16/SeleniumJar_lib/okio-1.14.1.jar"/>
-	<classpathentry kind="lib" path="D:/localRepository/Jan22_16/SeleniumJar_lib/selenium-api-3.14.0.jar"/>
-	<classpathentry kind="lib" path="D:/localRepository/Jan22_16/SeleniumJar_lib/selenium-chrome-driver-3.14.0.jar"/>
-	<classpathentry kind="lib" path="D:/localRepository/Jan22_16/SeleniumJar_lib/selenium-edge-driver-3.14.0.jar"/>
-	<classpathentry kind="lib" path="D:/localRepository/Jan22_16/SeleniumJar_lib/selenium-firefox-driver-3.14.0.jar"/>
-	<classpathentry kind="lib" path="D:/localRepository/Jan22_16/SeleniumJar_lib/selenium-ie-driver-3.14.0.jar"/>
-	<classpathentry kind="lib" path="D:/localRepository/Jan22_16/SeleniumJar_lib/selenium-java-3.14.0.jar"/>
-	<classpathentry kind="lib" path="D:/localRepository/Jan22_16/SeleniumJar_lib/selenium-opera-driver-3.14.0.jar"/>
-	<classpathentry kind="lib" path="D:/localRepository/Jan22_16/SeleniumJar_lib/selenium-remote-driver-3.14.0.jar"/>
-	<classpathentry kind="lib" path="D:/localRepository/Jan22_16/SeleniumJar_lib/selenium-safari-driver-3.14.0.jar"/>
-	<classpathentry kind="lib" path="D:/localRepository/Jan22_16/SeleniumJar_lib/selenium-support-3.14.0.jar"/>
+	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="output" path="bin"/>
+	
 </classpath>
