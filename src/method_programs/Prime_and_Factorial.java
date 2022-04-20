@@ -41,3 +41,7 @@ public class Prime_and_Factorial
 		System.out.println(num+"! : "+fact);
 	}
 }
+//output
+//Enter number : 5
+//5 : is a Prime number.
+//5! : 120
