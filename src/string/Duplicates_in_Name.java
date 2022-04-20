@@ -1,4 +1,4 @@
-package java_program;
+package string;
 
 import java.util.LinkedHashSet;
 

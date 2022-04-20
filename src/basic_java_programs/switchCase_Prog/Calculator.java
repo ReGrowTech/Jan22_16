@@ -1,6 +1,6 @@
 //capsule 6 ques 3
 // WAP for calculator
-package basic_java_programs;
+package basic_java_programs.switchCase_Prog;
 import java.util.Scanner;
 public class Calculator 
 {

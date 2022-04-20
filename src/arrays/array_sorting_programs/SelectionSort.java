@@ -1,5 +1,5 @@
 // Selection Sort of Array of length 10
-package array_sorting_programs;
+package arrays.array_sorting_programs;
 public class SelectionSort
 {
 	public static void main(String[] args)

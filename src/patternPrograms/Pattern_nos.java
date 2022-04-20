@@ -1,4 +1,4 @@
-package My_swapping;
+package patternPrograms;
 
 public class Pattern_nos {
 
@@ -8,7 +8,7 @@ public class Pattern_nos {
 		{
 			for(int j=1; j<=i; j++)
 			{
-				System.out.print("#");
+				System.out.print(" ");
 			}
 			for(int k=1; k<=(5-i+1); k++) 
 			{

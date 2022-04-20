@@ -1,4 +1,4 @@
-package My_swapping;
+package patternPrograms;
 
 public class Nested_for {
 

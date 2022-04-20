@@ -1,5 +1,5 @@
 //
-package My_swapping;
+package patternPrograms;
 
 public class Char_pattern {
 
