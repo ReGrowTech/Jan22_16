@@ -14,7 +14,7 @@ public class Pattern101010 {
 		{
 			for (int j=1;j<=i;j++)
 			{ 
-				System.out.print(count%2+" ");
+				System.out.print(count%2+"\t");
 				count++;				
 			}
 			System.out.println();
