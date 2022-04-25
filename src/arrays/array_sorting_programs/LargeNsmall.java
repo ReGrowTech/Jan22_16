@@ -17,7 +17,7 @@ public class LargeNsmall {
 		}
 		System.out.print("The entered array elements are : " );
 		for(int e :arr)
-		System.out.print(e+"\t");
+			System.out.print(e+"\t");
 		for(int i=0;i<arr.length-1;i++)
 		{
 			for(int j=i+1;j<arr.length;j++)
@@ -27,14 +27,14 @@ public class LargeNsmall {
 					int temp=arr[i];
 					arr[i]=arr[j];
 					arr[j]=temp;
-					
+
 				}
 			}
 		}
 		System.out.print("\nArray elements in accending order : " );
 		for(int e :arr)
 			System.out.print(e+"\t");
-		
+
 		System.out.print("\nThird largest value : "+arr[arr.length-3]);
 		sc.close();
 
@@ -57,3 +57,4 @@ Enter element at 10 : 4
 The entered array elements are : 10	9	8	1	2	3	5	6	7	4	
 Array elements in accending order : 1	2	3	4	5	6	7	8	9	10	
 Third largest value : 8
+*/
