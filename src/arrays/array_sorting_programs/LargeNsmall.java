@@ -41,3 +41,19 @@ public class LargeNsmall {
 	}
 
 }
+/*
+OUTPUT 
+Enter Array size :10
+Enter element at 1 : 10
+Enter element at 2 : 9
+Enter element at 3 : 8
+Enter element at 4 : 1
+Enter element at 5 : 2
+Enter element at 6 : 3
+Enter element at 7 : 5
+Enter element at 8 : 6
+Enter element at 9 : 7
+Enter element at 10 : 4
+The entered array elements are : 10	9	8	1	2	3	5	6	7	4	
+Array elements in accending order : 1	2	3	4	5	6	7	8	9	10	
+Third largest value : 8
