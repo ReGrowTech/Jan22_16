@@ -22,9 +22,6 @@ public class ArraylistDescending
 		{
 			System.out.println(itr.next());
 		}
-		
-				
-
 	}
 
 }
